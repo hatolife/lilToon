@@ -1,0 +1,4 @@
+e698a2f -O3 SSA assignments 53 conditional branches 0 rsqrt 2
+e698a2f -Od SSA assignments 58 conditional branches 0 rsqrt 2
+6196ed2 -O3 SSA assignments 99 conditional branches 3 rsqrt 1
+6196ed2 -Od SSA assignments 122 conditional branches 3 rsqrt 1
